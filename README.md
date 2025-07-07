@@ -11,8 +11,8 @@ I'm Richa, an undergraduate student at Manipal Institute of Technology, currentl
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # 📱 How to reach me:
-- 📧 **Email:** [richashanbhag@gmail.com](mailto:richashanbhag@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/richashanbhag](https://www.linkedin.com/in/richashanbhag)
+- 📧 **Email:** [ricshanbhag@gmail.com](mailto:ricshanbhag@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/richashanbhag](https://www.linkedin.com/in/richa-shanbhag)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
