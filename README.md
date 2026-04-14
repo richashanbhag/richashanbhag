@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm Richa, an undergraduate student at Manipal Institute of Technology, currently pursuing a degree in Computer and Communication Engineering. I have a strong foundation in Data Structures and Algorithms (DSA) and am skilled in full-stack web development. I'm passionate about building scalable solutions and continuously expanding my knowledge in both software and systems.<br><br>
-
-# Skills:
+## Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,7 +12,7 @@ I'm Richa, an undergraduate student at Manipal Institute of Technology, currentl
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# How to reach me:
+## How to reach me:
 - 📧 **Email:** [ricshanbhag@gmail.com](mailto:ricshanbhag@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/richashanbhag](https://www.linkedin.com/in/richa-shanbhag)
 
